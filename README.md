@@ -10,6 +10,6 @@ Gpt (1).ipynb
 
 The Entity-Relationship Diagram is provided as an image file (PNG):
 
-ERD.png
+ERD (1).png
 
 To run the code, you need to insert your API key for each model and place the image in the Input directory.
