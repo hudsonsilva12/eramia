@@ -12,4 +12,9 @@ The Entity-Relationship Diagram is provided as an image file (PNG):
 
 ERD (1).png
 
+The document with the model comparison and results:
+
+llms comparison.pdf
+
+
 To run the code, you need to insert your API key for each model and place the image in the Input directory.
